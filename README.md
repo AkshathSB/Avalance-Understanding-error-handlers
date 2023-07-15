@@ -22,12 +22,11 @@ Once the contract is deployed, you can interact with it by calling "to_check_req
 
 ## Authors
 
-Contributors names and contact info
+Akshath.SB
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+@akshathbhandiwad2@gmail.com
 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
